@@ -7,5 +7,6 @@ Implementation of the paper 'Distilling the Knowledge in a Neural Network' [http
 Test set size = 10000
 
 |Model | Accuracy|
+|--- |---|
 |Large model | 0.9847|
 |Distilled model | 0.9810|
